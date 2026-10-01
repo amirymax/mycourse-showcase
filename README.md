@@ -55,7 +55,16 @@ Each module has its own README, `.env.example` (where relevant) and tests, and i
 
 ## Screenshots
 
-Public pages only.
+Public pages, plus the student area captured from a local build seeded with fictional English demo content and a throwaway test account (no real students or course material).
+
+| Student dashboard | Lesson step with code editor |
+|---|---|
+| ![Dashboard desktop](docs/screenshots/platform-dashboard-desktop.png) | ![Editor desktop](docs/screenshots/platform-editor-desktop.png) |
+
+| Dashboard (mobile) | Code editor (mobile) |
+|---|---|
+| ![Dashboard mobile](docs/screenshots/platform-dashboard-mobile.png) | ![Editor mobile](docs/screenshots/platform-editor-mobile.png) |
+
 
 | Landing (desktop) | Landing (mobile) |
 |---|---|
